@@ -1,5 +1,11 @@
 # Rutalibre
-Te gusta registrar tus estrenos en bicicleta, corriendo o andando y competir contra tus propios segmentos.  Pues con esta aplicación para Android puedes. Es gratis.
-En la ultima versión  la 1.7 se añadido, la posibilidad de añadir tus bicicletas asi llevar un control de los kilómetros de cada una de ellas y sus mantenimientos.
-también podrás ver tu evolución con la gráficas de tus entrenos, mensuales y anuales.
-posibilidad de subir tus entrenos a tu servidor, a la nube o donde quieras guardar tanto una copia de seguridad de la aplicación como de tus entrenos.
+
+Te gusta registrar tus entrenos en bicicleta, corriendo o andando y competir contra tus propios segmentos. Pues con esta aplicación para Android puedes. Es gratis.
+
+En la última versión, la 2.0, se ha añadido el modo vuelo para ver la ruta en vídeo con los datos en vivo (velocidad, distancia, tiempo y altitud), la posibilidad de añadir fotos a cada ruta (cámara o galería) y exportar el vídeo en 9:16, 1:1 o 16:9 para redes sociales.
+
+También (desde la 1.7) puedes añadir tus bicicletas para llevar el control de los kilómetros de cada una y sus mantenimientos.
+
+Además podrás ver tu evolución con las gráficas de tus entrenos, mensuales y anuales.
+
+Posibilidad de subir tus entrenos a tu servidor, a la nube o donde quieras guardar tanto una copia de seguridad de la aplicación como de tus entrenos.
